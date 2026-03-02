@@ -14,6 +14,10 @@ document
       return;
     }
 
+    for (let i = 1; i < 10; i++) {
+      const element = array[i];
+    }
+
     try {
       // Kirim data ke server
       const response = await fetch(

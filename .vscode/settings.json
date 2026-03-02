@@ -5,5 +5,8 @@
         "markdown": false,
         "scminput": false,
         "log": false
+    },
+    "files.associations": {
+        "iostream": "cpp"
     }
 }
